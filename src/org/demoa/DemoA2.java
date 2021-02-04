@@ -5,5 +5,6 @@ public class DemoA2 {
 		System.out.println("DemoA2");
 		System.out.println("Demo A2 updated from B Branch");
 		System.out.println("Demo A2 updated from C branch");
+		System.out.println("New Update");
 	}
 }
